@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Web Dev Collaborative Project</h4>
+      <h4>🌐 Web Dev Movie Database</h4>
       <p>A full-stack development project focusing on responsive design, database integration, and collaborative version control workflow.</p>
-      <code>HTML/CSS</code> <code>JavaScript</code> <code>WebDev</code>
+      <code>HTML/CSS</code> <code>vue.js</code> <code>node.js</code> <code>express.js</code> 
     </td>
   </tr>
 </table>
