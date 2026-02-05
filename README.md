@@ -23,9 +23,9 @@ Here are some ideas to get you started:
       <code>Python</code> <code>OpenFace</code> <code>KOALA</code> <code>Py-Feat</code>
     </td>
     <td width="50%" valign="top">
-      <h4>⭐ Ghost Defender (Sports Analytics)</h4>
-      <p>Applying GANs to player tracking data to generate counterfactual "optimal" defensive movements. Shifting sports stats from descriptive to prescriptive.</p>
-      <code>LSTMs</code> <code>GANs</code> <code>SportsData</code>
+      <h4>🌐 Personal Portfolio 2.0</h4>
+      <p>A high-performance site rework focused on data storytelling. Features interactive ML visualizations and research documentation.</p>
+      <code>Astro</code> <code>Tailwind CSS</code> 
     </td>
   </tr>
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
       <code>OpenCV</code> <code>TensorFlow</code> 
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Personal Portfolio 2.0</h4>
-      <p>A high-performance site rework focused on data storytelling. Features interactive ML visualizations and research documentation.</p>
-      <code>Astro</code> <code>Tailwind CSS</code> 
+      <h4>⚽ Ghost Defender (Sports Analytics)</h4>
+      <p>Applying GANs to player tracking data to generate counterfactual "optimal" defensive movements. Shifting sports stats from descriptive to prescriptive.</p>
+      <code>LSTMs</code> <code>GANs</code> <code>SportsData</code>
     </td>
   </tr>
 </table>
