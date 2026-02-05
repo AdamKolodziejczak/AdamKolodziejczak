@@ -44,3 +44,47 @@ Here are some ideas to get you started:
 </table>
 
 
+### 🛠️ Past Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 FIFA 23 Rating vs Potential</h4>
+      <p>Exploratory Data Analysis (EDA) investigating the correlation between current performance and future growth in professional football.</p>
+      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 OCR Libraries Benchmarks & Fine-Tuning</h4>
+      <p>A comparative performance study of OCR engines. <b>Fine-tuned a custom model to reduce Character Error Rate (CER). </p>
+      <code>Python</code> <code>Fine-Tuning</code> <code>PyTorch</code> <code>PyTesseract</code> <code>Keras-OCR</code> <code>EasyOCR</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👾 Code Monster Turn Battle</h4>
+      <p>A logic-based turn-based battle game. Built using Java for the backend game logic and server, with GlassFish (Jakarta EE) for running the web application.</p>
+      <code>java</code> <code>jakarta-ee</code> <code>glassfish</code> <code>rest-api</code> <code>maven</code><code>html</code>
+<code>css</code>
+<code>javascript</code>
+<code>full-stack</code>>
+<code>client-server</code>
+
+    </td>
+    <td width="50%" valign="top">
+      <h4>😀 Emojiable</h4>
+      <p>Investigated training and deployment of Generative Neural Networks of an Emoji Generator. Utilized a diverse dataset containing emoticons from several companies.</p>
+      <code>Generative Adversarial Networks</code> <code>PyTorch</code> <code>Python</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Dev Collaborative Project</h4>
+      <p>A full-stack web application development project focusing on responsive design and database integration.</p>
+      <code>HTML/CSS</code> <code>JavaScript</code> <code>WebDev</code>
+    </td>
+  </tr>
+</table>
+
+
