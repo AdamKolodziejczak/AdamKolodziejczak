@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 FIFA 23 Rating vs Potential</h4>
-      <p>Exploratory Data Analysis (EDA) investigating the correlation between current performance and future growth in professional football.</p>
-      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
+      <h4>😀 Emojiable</h4>
+      <p>Investigated training and deployment of Generative Neural Networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
+      <code>GANs</code> <code>PyTorch</code> <code>Python</code> <code>Generative-AI</code>
     </td>
     <td width="50%" valign="top">
       <h4>🔍 OCR Benchmarks & Fine-Tuning</h4>
@@ -67,9 +67,9 @@ Here are some ideas to get you started:
       <code>Java</code> <code>Jakarta EE</code> <code>GlassFish</code> <code>REST</code>
     </td>
     <td width="50%" valign="top">
-      <h4>😀 Emojiable</h4>
-      <p>Investigated training and deployment of Generative Neural Networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
-      <code>GANs</code> <code>PyTorch</code> <code>Python</code> <code>Generative-AI</code>
+      <h4>📊 FIFA 23 Rating vs Potential</h4>
+      <p>Exploratory Data Analysis (EDA) investigating the correlation between current performance and future growth in professional football.</p>
+      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     </td>
   </tr>
 
@@ -78,10 +78,6 @@ Here are some ideas to get you started:
       <h4>🌐 Web Dev Collaborative Project</h4>
       <p>A full-stack development project focusing on responsive design, database integration, and collaborative version control workflow.</p>
       <code>HTML/CSS</code> <code>JavaScript</code> <code>WebDev</code>
-    </td>
-    <td width="50%" valign="top">
-       <h4>🚀 Upcoming Projects</h4>
-       <p>Currently developing a <b>Referee Bias Audit</b> tool and a <b>Personal Website</b> rework focused on data storytelling.</p>
     </td>
   </tr>
 </table>
