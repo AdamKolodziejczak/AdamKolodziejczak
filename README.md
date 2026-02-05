@@ -14,26 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Current Projects
-
+### 🔭 Current Projects
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⭐ Honors Thesis: CV in Programming</h4>
-      <p>Investigating the intersection of Affective Computing and software engineering. Using Computer Vision to map emotional response to coding challenges.</p>
-      <code>Python</code> <code>PyTorch</code> <code>MediaPipe</code>
+      <h4>⭐ Honors Thesis: Affective Computing</h4>
+      <p>Mapping developer emotional states to productivity using Computer Vision. Bridging the gap between software engineering and human behavior.</p>
+      <code>Python</code> <code>OpenFace</code> <code>KOALA</code> <code>Py-Feat</code>
     </td>
     <td width="50%" valign="top">
       <h4>⭐ Ghost Defender (Sports Analytics)</h4>
-      <p>Applying Generative Adversarial Networks to player tracking data to generate counterfactual "optimal" defensive movements.</p>
+      <p>Applying GANs to player tracking data to generate counterfactual "optimal" defensive movements. Shifting sports stats from descriptive to prescriptive.</p>
       <code>LSTMs</code> <code>GANs</code> <code>SportsData</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤟 ASL Tutor AI</h4>
+      <p>Real-time American Sign Language teaching app. Uses hand landmark estimation to provide instant feedback on signing accuracy.</p>
+      <code>OpenCV</code> <code>TensorFlow</code> 
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Personal Portfolio 2.0</h4>
+      <p>A high-performance site rework focused on data storytelling. Features interactive ML visualizations and research documentation.</p>
+      <code>Astro</code> <code>Tailwind CSS</code> 
     </td>
   </tr>
 </table>
 
-| Project | Domain | Tech Stack | Key Achievement |
-| :--- | :--- | :--- | :--- |
-| **[Honors Thesis: Affective CV]** | Research / ML | `PyTorch` `MediaPipe` | Developing CV models to map emotional states to developer productivity. |
-| **[ASL Tutor AI]([link])** | CV / Accessibility | `OpenCV` `TensorFlow` | Real-time hand landmark tracking and gesture classification for ASL learning. |
-| **[Ghost Defender]([link])** | Sports Analytics | `LSTMs` `GANs` | ⭐ Using tracking data to simulate "optimal" defensive movements in soccer/basketball. |
-| **[Personal Portfolio 2.0]([link])** | Full-Stack | `Next.js` `Tailwind` | A central hub for my research papers and interactive ML visualizations. |
+
