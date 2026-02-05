@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Past Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>📊 FIFA 23 Rating vs Potential</h4>
@@ -54,37 +54,34 @@ Here are some ideas to get you started:
       <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 OCR Libraries Benchmarks & Fine-Tuning</h4>
-      <p>A comparative performance study of OCR engines. <b>Fine-tuned a custom model to reduce Character Error Rate (CER). </p>
-      <code>Python</code> <code>Fine-Tuning</code> <code>PyTorch</code> <code>PyTesseract</code> <code>Keras-OCR</code> <code>EasyOCR</code>
+      <h4>🔍 OCR Benchmarks & Fine-Tuning</h4>
+      <p>Comparative study of OCR engines. <b>Fine-tuned</b> a custom model to significantly reduce Character Error Rate (CER) on domain data.</p>
+      <code>Python</code> <code>Fine-Tuning</code> <code>PyTorch</code> <code>EasyOCR</code>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
       <h4>👾 Code Monster Turn Battle</h4>
-      <p>A logic-based turn-based battle game. Built using Java for the backend game logic and server, with GlassFish (Jakarta EE) for running the web application.</p>
-      <code>java</code> <code>jakarta-ee</code> <code>glassfish</code> <code>rest-api</code> <code>maven</code><code>html</code>
-<code>css</code>
-<code>javascript</code>
-<code>full-stack</code>>
-<code>client-server</code>
-
+      <p>Full-stack Java game utilizing GlassFish and Jakarta EE. Implemented client-server logic and RESTful API endpoints for game state management.</p>
+      <code>Java</code> <code>Jakarta EE</code> <code>GlassFish</code> <code>REST</code>
     </td>
     <td width="50%" valign="top">
       <h4>😀 Emojiable</h4>
-      <p>Investigated training and deployment of Generative Neural Networks of an Emoji Generator. Utilized a diverse dataset containing emoticons from several companies.</p>
-      <code>Generative Adversarial Networks</code> <code>PyTorch</code> <code>Python</code>
+      <p>Investigated training and deployment of Generative Neural Networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
+      <code>GANs</code> <code>PyTorch</code> <code>Python</code> <code>Generative-AI</code>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 Web Dev Collaborative Project</h4>
-      <p>A full-stack web application development project focusing on responsive design and database integration.</p>
+      <p>A full-stack development project focusing on responsive design, database integration, and collaborative version control workflow.</p>
       <code>HTML/CSS</code> <code>JavaScript</code> <code>WebDev</code>
+    </td>
+    <td width="50%" valign="top">
+       <h4>🚀 Upcoming Projects</h4>
+       <p>Currently developing a <b>Referee Bias Audit</b> tool and a <b>Personal Website</b> rework focused on data storytelling.</p>
     </td>
   </tr>
 </table>
-
-
