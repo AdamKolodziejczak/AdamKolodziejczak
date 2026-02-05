@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Personal Portfolio 2.0</h4>
-      <p>A high-performance site rework focused on data storytelling. Features interactive ML visualizations and research documentation.</p>
+      <p>A high-performance site rework focused on personal projects and informaation. Features research documentation, projects, videos and more.</p>
       <code>Astro</code> <code>Tailwind CSS</code> 
     </td>
   </tr>
