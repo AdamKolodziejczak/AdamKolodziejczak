@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 Highlighted Work
+### 🚀 Current Projects
 
 <table>
   <tr>
@@ -30,3 +30,10 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+| Project | Domain | Tech Stack | Key Achievement |
+| :--- | :--- | :--- | :--- |
+| **[Honors Thesis: Affective CV]** | Research / ML | `PyTorch` `MediaPipe` | Developing CV models to map emotional states to developer productivity. |
+| **[ASL Tutor AI]([link])** | CV / Accessibility | `OpenCV` `TensorFlow` | Real-time hand landmark tracking and gesture classification for ASL learning. |
+| **[Ghost Defender]([link])** | Sports Analytics | `LSTMs` `GANs` | ⭐ Using tracking data to simulate "optimal" defensive movements in soccer/basketball. |
+| **[Personal Portfolio 2.0]([link])** | Full-Stack | `Next.js` `Tailwind` | A central hub for my research papers and interactive ML visualizations. |
