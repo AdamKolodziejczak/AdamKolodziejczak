@@ -79,5 +79,10 @@ Here are some ideas to get you started:
       <p>A full-stack development project focusing on responsive design, database integration, and collaborative version control workflow.</p>
       <code>HTML/CSS</code> <code>vue.js</code> <code>node.js</code> <code>express.js</code> 
     </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Sudoku Game</h4>
+      <p>A fully functional, interactive Sudoku game. Features dynamic grid generation, input validation, a clean, responsive UI and a leaderboard.</p>
+      <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code>
+    </td>
   </tr>
 </table>
