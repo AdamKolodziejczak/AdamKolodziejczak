@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
       <h4>😀 Emojiable</h4>
-      <p>Investigated training and deployment of Generative Neural Networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
+      <p>Investigated training and deployment of generative adversarial networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
       <code>GANs</code> <code>PyTorch</code> <code>Python</code> <code>Generative-AI</code>
     </td>
     <td width="50%" valign="top">
