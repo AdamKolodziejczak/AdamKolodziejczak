@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
   <tr>
     <td width="50%" valign="top">
-      <h4>🤟 ASL Tutor AI</h4>
-      <p>Real-time American Sign Language teaching app. Uses hand landmark estimation to provide instant feedback on signing accuracy.</p>
-      <code>OpenCV</code> <code>TensorFlow</code> 
-    </td>
-    <td width="50%" valign="top">
       <h4>⚽ Ghost Defender (Sports Analytics)</h4>
       <p>Applying GANs to player tracking data to generate counterfactual "optimal" defensive movements. Shifting sports stats from descriptive to prescriptive.</p>
       <code>LSTMs</code> <code>GANs</code> <code>SportsData</code>
@@ -49,27 +44,27 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🤟 ASL Tutor AI</h4>
+      <p>Real-time American Sign Language teaching app. Uses hand landmark estimation to provide instant feedback on signing accuracy.</p>
+      <code>OpenCV</code> <code>TensorFlow</code> 
+    </td>
+    <td width="50%" valign="top">
       <h4>😀 Emojiable</h4>
       <p>Investigated training and deployment of generative adversarial networks (GANs). Utilized diverse emoticon datasets for image generation.</p>
       <code>GANs</code> <code>PyTorch</code> <code>Python</code> <code>Generative-AI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 OCR Benchmarks & Fine-Tuning</h4>
-      <p>Comparative study of OCR engines. <b>Fine-tuned</b> a custom model to significantly reduce Character Error Rate (CER) on domain data.</p>
-      <code>Python</code> <code>Fine-Tuning</code> <code>PyTorch</code> <code>EasyOCR</code>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
+      <h4>🔍 OCR Benchmarks & Fine-Tuning</h4>
+      <p>Comparative study of OCR engines. <b>Fine-tuned</b> a custom model to significantly reduce Character Error Rate (CER) on domain data.</p>
+      <code>Python</code> <code>Fine-Tuning</code> <code>PyTorch</code> <code>EasyOCR</code>
+    </td>
+    <td width="50%" valign="top">
       <h4>👾 Code Monster Turn Battle</h4>
       <p>Full-stack Java game utilizing GlassFish and Jakarta EE. Implemented client-server logic and RESTful API endpoints for game state management.</p>
       <code>Java</code> <code>Jakarta EE</code> <code>GlassFish</code> <code>REST</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 FIFA 23 Rating vs Potential</h4>
-      <p>Exploratory Data Analysis (EDA) investigating the correlation between current performance and future growth in professional football.</p>
-      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     </td>
   </tr>
 
@@ -83,6 +78,14 @@ Here are some ideas to get you started:
       <h4>🧩 Sudoku Game</h4>
       <p>A fully functional, interactive Sudoku game. Features dynamic grid generation, input validation, a clean, responsive UI and a leaderboard.</p>
       <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 FIFA 23 Rating vs Potential</h4>
+      <p>Exploratory Data Analysis (EDA) investigating the correlation between current performance and future growth in professional football.</p>
+      <code>Python</code> <code>Pandas</code> <code>Matplotlib</code>
     </td>
   </tr>
 </table>
