@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⭐ Honors Thesis: Affective Computing</h4>
+      <h4>⭐ Honors Thesis: Do Bugs Make Programmers Cry?</h4>
       <p>Mapping developer emotional states to productivity using Computer Vision. Bridging the gap between software engineering and human behavior.</p>
       <code>Python</code> <code>OpenFace</code> <code>KOALA</code> <code>Py-Feat</code>
     </td>
